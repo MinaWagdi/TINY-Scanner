@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\mina rafla\documents\visual studio 2017\projects\lexicalanalysiscompilersproject1\lexicalanalysiscompilersproject1\source.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\mina rafla\documents\visual studio 2017\projects\lexicalanalysiscompilersproject1\lexicalanalysiscompilersproject1\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\mina rafla\documents\visual studio 2017\projects\lexicalanalysiscompilersproject1\lexicalanalysiscompilersproject1\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  LexicalAnalysisCompilersProject1.vcxproj -> C:\Users\Mina Rafla\Documents\Visual Studio 2017\Projects\LexicalAnalysisCompilersProject1\Debug\LexicalAnalysisCompilersProject1.exe
+  LexicalAnalysisCompilersProject1.vcxproj -> C:\Users\Mina Rafla\Documents\Visual Studio 2017\Projects\LexicalAnalysisCompilersProject1\Debug\LexicalAnalysisCompilersProject1.pdb (Partial PDB)
